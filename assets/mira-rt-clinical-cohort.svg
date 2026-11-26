@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+<title id="title">Acute grade 3 radiotherapy-related toxicity in a 1.5 tesla MR-Linac cohort</title>
+<desc id="desc">Reported toxicity was 23 of 1,697 reviewed treatment courses, 1.4 percent with 95 percent confidence interval 0.9 to 2.0 percent overall; among the adapt-to-shape subset, 4 of 1,005 courses, 0.4 percent with confidence interval 0.1 to 1.0 percent.</desc>
+<rect width="1200" height="700" rx="28" fill="#f4f5ef"/>
+<text x="60" y="72" fill="#657270" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">MIRA-RT · FIGURE 02</text>
+<text x="60" y="128" fill="#10201f" font-family="Arial,sans-serif" font-size="40" font-weight="700">Acute grade 3 RT-related toxicity</text>
+<text x="60" y="166" fill="#657270" font-family="Arial,sans-serif" font-size="22">1.5 T MR-Linac observational cohort · proportions with 95% confidence intervals</text>
+<text x="60" y="278" fill="#10201f" font-family="Arial,sans-serif" font-size="24" font-weight="700">All reviewed courses</text>
+<text x="60" y="313" fill="#657270" font-family="Arial,sans-serif" font-size="19">23 / 1,697 · 1.4%</text>
+<text x="60" y="414" fill="#10201f" font-family="Arial,sans-serif" font-size="24" font-weight="700">Adapt-to-shape (ATS)</text>
+<text x="60" y="449" fill="#657270" font-family="Arial,sans-serif" font-size="19">4 / 1,005 · 0.4%</text>
+<line x1="440" y1="266" x2="440" y2="500" stroke="#cfd6cc" stroke-width="2"/>
+<line x1="440" y1="500" x2="1090" y2="500" stroke="#657270" stroke-width="2"/>
+<line x1="440" y1="494" x2="440" y2="508" stroke="#657270" stroke-width="2"/>
+<line x1="570" y1="494" x2="570" y2="508" stroke="#cfd6cc" stroke-width="2"/>
+<line x1="700" y1="494" x2="700" y2="508" stroke="#cfd6cc" stroke-width="2"/>
+<line x1="830" y1="494" x2="830" y2="508" stroke="#cfd6cc" stroke-width="2"/>
+<line x1="960" y1="494" x2="960" y2="508" stroke="#cfd6cc" stroke-width="2"/>
+<line x1="1090" y1="494" x2="1090" y2="508" stroke="#657270" stroke-width="2"/>
+<text x="432" y="535" text-anchor="middle" fill="#657270" font-family="Arial,sans-serif" font-size="16">0</text>
+<text x="570" y="535" text-anchor="middle" fill="#657270" font-family="Arial,sans-serif" font-size="16">0.5%</text>
+<text x="700" y="535" text-anchor="middle" fill="#657270" font-family="Arial,sans-serif" font-size="16">1.0%</text>
+<text x="830" y="535" text-anchor="middle" fill="#657270" font-family="Arial,sans-serif" font-size="16">1.5%</text>
+<text x="960" y="535" text-anchor="middle" fill="#657270" font-family="Arial,sans-serif" font-size="16">2.0%</text>
+<text x="1090" y="535" text-anchor="middle" fill="#657270" font-family="Arial,sans-serif" font-size="16">2.5%</text>
+<line x1="674" y1="291" x2="960" y2="291" stroke="#ff765d" stroke-width="8" stroke-linecap="round"/>
+<line x1="674" y1="275" x2="674" y2="307" stroke="#ff765d" stroke-width="4"/>
+<line x1="960" y1="275" x2="960" y2="307" stroke="#ff765d" stroke-width="4"/>
+<circle cx="804" cy="291" r="13" fill="#10201f" stroke="#ffffff" stroke-width="5"/>
+<line x1="466" y1="427" x2="700" y2="427" stroke="#4b9e91" stroke-width="8" stroke-linecap="round"/>
+<line x1="466" y1="411" x2="466" y2="443" stroke="#4b9e91" stroke-width="4"/>
+<line x1="700" y1="411" x2="700" y2="443" stroke="#4b9e91" stroke-width="4"/>
+<circle cx="544" cy="427" r="13" fill="#10201f" stroke="#ffffff" stroke-width="5"/>
+<rect x="60" y="574" width="1080" height="82" rx="16" fill="#e8ebe3"/>
+<text x="84" y="608" fill="#10201f" font-family="Arial,sans-serif" font-size="17" font-weight="700">Read carefully</text>
+<text x="84" y="635" fill="#657270" font-family="Arial,sans-serif" font-size="16">ATS is a subset of the full cohort, not an independent comparison. Observational results; chart review had missing/variable grading.</text>
+</svg>
