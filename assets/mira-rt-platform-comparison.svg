@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+<title id="title">Published MRIdian and Elekta Unity configuration comparison</title>
+<desc id="desc">Diagram comparing MRIdian at 0.35 tesla with a nominal 6 megavolt flattening-filter-free beam and Unity at 1.5 tesla with a nominal 7 megavolt flattening-filter-free beam. Both are perpendicular MRI-linac configurations.</desc>
+<rect width="1200" height="680" rx="28" fill="#f4f5ef"/>
+<text x="60" y="72" fill="#657270" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">MIRA-RT · FIGURE 01</text>
+<text x="60" y="128" fill="#10201f" font-family="Arial,sans-serif" font-size="42" font-weight="700">Two published MR-LINAC configurations</text>
+<text x="60" y="166" fill="#657270" font-family="Arial,sans-serif" font-size="22">A technical comparison, not a clinical ranking</text>
+<rect x="60" y="210" width="520" height="380" rx="24" fill="#ffffff" stroke="#cfd6cc" stroke-width="2"/>
+<rect x="620" y="210" width="520" height="380" rx="24" fill="#ffffff" stroke="#cfd6cc" stroke-width="2"/>
+<rect x="60" y="210" width="520" height="14" rx="7" fill="#ff765d"/>
+<rect x="620" y="210" width="520" height="14" rx="7" fill="#a6e5dc"/>
+<text x="96" y="275" fill="#10201f" font-family="Arial,sans-serif" font-size="30" font-weight="700">MRIdian</text>
+<text x="96" y="330" fill="#10201f" font-family="Arial,sans-serif" font-size="54" font-weight="700">0.35 T</text>
+<text x="96" y="365" fill="#657270" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2">MRI MAGNETIC FIELD</text>
+<line x1="96" y1="394" x2="544" y2="394" stroke="#cfd6cc" stroke-width="2"/>
+<text x="96" y="445" fill="#10201f" font-family="Arial,sans-serif" font-size="31" font-weight="700">6 MV FFF</text>
+<text x="96" y="477" fill="#657270" font-family="Arial,sans-serif" font-size="19">Nominal photon beam</text>
+<rect x="96" y="515" width="448" height="44" rx="12" fill="#fff1ed"/>
+<text x="116" y="544" fill="#10201f" font-family="Arial,sans-serif" font-size="18" font-weight="700">Split superconducting magnet</text>
+<text x="656" y="275" fill="#10201f" font-family="Arial,sans-serif" font-size="30" font-weight="700">Elekta Unity</text>
+<text x="656" y="330" fill="#10201f" font-family="Arial,sans-serif" font-size="54" font-weight="700">1.5 T</text>
+<text x="656" y="365" fill="#657270" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2">MRI MAGNETIC FIELD</text>
+<line x1="656" y1="394" x2="1104" y2="394" stroke="#cfd6cc" stroke-width="2"/>
+<text x="656" y="445" fill="#10201f" font-family="Arial,sans-serif" font-size="31" font-weight="700">7 MV FFF</text>
+<text x="656" y="477" fill="#657270" font-family="Arial,sans-serif" font-size="19">Nominal photon beam</text>
+<rect x="656" y="515" width="448" height="44" rx="12" fill="#eaf8f5"/>
+<text x="676" y="544" fill="#10201f" font-family="Arial,sans-serif" font-size="18" font-weight="700">Closed superconducting magnet</text>
+<text x="60" y="630" fill="#657270" font-family="Arial,sans-serif" font-size="17">Published system configurations · FFF = flattening-filter-free · Magnetic field perpendicular to beam in both systems</text>
+</svg>
